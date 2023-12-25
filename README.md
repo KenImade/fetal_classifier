@@ -18,7 +18,7 @@ The aim of this project is to create a machine learning classifier capable of id
 - Pandas
 - Numpy
 
-A detailed report can be accessed through this (link)[https://drive.google.com/drive/folders/1TUfX6x9n9oxOlZlgI1FXO4XDXhRqEY_Z?usp=drive_link]
+A detailed report can be accessed through this [link](https://drive.google.com/drive/folders/1TUfX6x9n9oxOlZlgI1FXO4XDXhRqEY_Z?usp=drive_link).
 
 ## File Structure
 ```
